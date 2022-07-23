@@ -22,7 +22,7 @@ Human Civilization originated from a planetary Constellation called Lira. Lira w
   <li>Burstonia (Leader of the Resurrection Clan and Right hand Leader of the Elites)</li>
   <p></p>
   <ul><li>Riccoo (Leader of the Sound Clan)</li>
-  <li>Brabantyan Leader of the Spectrum Clan)</li>
+  <li>Brabantyan (Leader of the Spectrum Clan)</li>
   <li>JohnniiFM (Leader of the Heal Clan)</li>
   </ul>
 </ul>
