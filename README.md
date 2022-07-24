@@ -23,12 +23,12 @@ Human Civilization originated from a planetary Constellation called Lira. Lira w
   <p></p>
   <ul><li>Riccoo (Leader of the Sound Clan)</li>
   <li>Brabantyan (Leader of the Spectrum Clan)</li>
-  <li>JohnniiFM (Leader of the Heal Clan)</li>
+  <li>JohnniiFM (Leader of the Pyro Clan)</li>
   </ul>
 </ul>
   <p></p>
 <ul>    
-  <li>JJsoo (Leader of the Pyro Clan and Left hand Leader of the Elites)</li>
+  <li>JJsoo (Leader of the Heal Clan and Left hand Leader of the Elites)</li>
   <p></p>
   <ul><li>Oha-The-Great (Leader of the Magic Clan)</li>
   <li>Blankii (Leader of the Archer Clan)</li>
