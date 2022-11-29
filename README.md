@@ -1,7 +1,5 @@
 <h1>Destiny Of The Universe Game Prologue</h1>
 
-Head Author is Michelle Poe
-
 Welcome To Destiny Of The Universe Prologue, here we look at the history of the Universe in Alpha Version before we head to the future where battle lines are created, alliances are formed and we start to expand the game into the 12 Constellations Of The Universe and beyond.
 
 Alpha Version (History)
