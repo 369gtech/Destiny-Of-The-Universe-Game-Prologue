@@ -20,32 +20,32 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 
 <h3>The 12 Major Constellations Faction</h3>
 
-<h4>1. Signum Faction - Gemini (Sun Alliance)</h4>
-
+<h4>1. Signum Faction - Gemini (Elite Faction SUN)</h4>
+<p>From the Light Tri-Faction</p>
 <ul>    
-  <li>Ka'ree Of Light (Leader of the Hypertel Clan, The Elites and The Galactic Alliance)</li>
+  <li>Ka'ree Of the Hypertel Clan - Head of Signum, the Elite Faction SUN and the Leader of The Galactic Alliance</li>
   <p></p>
-  <ul><li>Cyiam (Leader of the Invisibility Clan)</li>
-  <li>Frank (Leader of the Flying Clan)</li>
-  <li>Harrii (Leader of the Psychic Clan)</li>
+  <ul><li>Cyiam Of the Invisibility Clan</li>
+  <li>Frank Of the Flying Clan</li>
+  <li>Harrii Of the Psychic Clan</li>
   </ul>
 </ul>
-  <p></p>
+  <p>From the Dark Tri-Faction</p>
 <ul>    
-  <li>Burstonia Of Dark (Leader of the Resurrection Clan and Right hand Leader of the Elites)</li>
+  <li>Burstonia Of the Resurrection Clan and Right Hand of Signum</li>
   <p></p>
-  <ul><li>Riccoo (Leader of the Sound Clan)</li>
-  <li>Bratyan (Leader of the Spectrum Clan)</li>
-  <li>Johnnii (Leader of the Pyro Clan)</li>
+  <ul><li>Riccoo Of the Sound Clan</li>
+  <li>Bratyan Of the Body Manipulator Clan</li>
+  <li>Johnnii Of the Pyro Clan</li>
   </ul>
 </ul>
-  <p></p>
+  <p>From the Grey Tri-Faction</p>
 <ul>    
-  <li>JJoz Of Grey (Leader of the Heal Clan and Left hand Leader of the Elites)</li>
+  <li>JJoz Of the Heal Clan and Left Hand of Signum</li>
   <p></p>
-  <ul><li>Ohay (Leader of the Magic Clan)</li>
-  <li>Blank (Leader of the Archer Clan)</li>
-  <li>Nixo (Leader of the Melee Clan)</li>
+  <ul><li>Ohay Of the Magic Clan</li>
+  <li>Blank Of the Archer Clan</li>
+  <li>Nixo Of the Melee Clan</li>
   </ul>
 </ul>
 
