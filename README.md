@@ -2,7 +2,7 @@
 
 Welcome To Destiny Of The Universe Prologue, here we look at the history of the Universe in Alpha Version before we head to the future where battle lines are created, alliances are formed and we start to expand the game into the 12 Constellations Of The Universe and beyond.
 
-Alpha Version (History)
+<h3>Alpha Version (History)</h3>
 
 It's a well known fact that the Galactic Alliance consists of 12 different races known as the 12 Major Constellation Factions Of The Universe which are split into 3 Elite Factions known as The Sun, The Moon and The Eclipse. Within each Elite Faction there are 4 Factions with a Leader, a Shadow, a Left Hand and a Right Hand. Each of the 4 Factions have 12 Clans split into tri-factions known as The Light, The Dark and The Grey now the Human civilization originated from the planetary Galaxy called Lira. Lira is at the center of the universe and is a part of The Sun faction called Signum.
 
@@ -18,12 +18,12 @@ Draco gives the order to Attack and The Dark Legions ambush with a decisive blow
 
 But some humans escaped to the far reaches of the Universe and one of those places was a planet called Earthonia. An eon would pass and these stories would be told and before long they would become myths and legends. The humans would almost forget who they once were but they would go onto colonize this planetary system. It wouldn't be long before war broke out among themselves as they would fight over land, resources and betrayal but a bigger war was coming where a truce would need to be implemented to survive the new invaders. This is the start of the monoGames Metaverse journey...
 
-<h3>The 12 Major Constellations Faction<h3>
+<h3>The 12 Major Constellations Faction</h3>
 
-<h4>Signum Faction - Gemini<h4>
+<h4>1. Signum Faction - Gemini (Sun Alliance)</h4>
 
 <ul>    
-  <li>Ka'ree (Leader of the Hypertel Clan, The Elites and The Galactic Alliance)</li>
+  <li>Ka'ree Of Light (Leader of the Hypertel Clan, The Elites and The Galactic Alliance)</li>
   <p></p>
   <ul><li>Cyiam (Leader of the Invisibility Clan)</li>
   <li>Frank (Leader of the Flying Clan)</li>
@@ -32,7 +32,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 </ul>
   <p></p>
 <ul>    
-  <li>Burstonia (Leader of the Resurrection Clan and Right hand Leader of the Elites)</li>
+  <li>Burstonia Of Dark (Leader of the Resurrection Clan and Right hand Leader of the Elites)</li>
   <p></p>
   <ul><li>Riccoo (Leader of the Sound Clan)</li>
   <li>Bratyan (Leader of the Spectrum Clan)</li>
@@ -41,12 +41,37 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 </ul>
   <p></p>
 <ul>    
-  <li>JJoz (Leader of the Heal Clan and Left hand Leader of the Elites)</li>
+  <li>JJoz Of Grey (Leader of the Heal Clan and Left hand Leader of the Elites)</li>
   <p></p>
   <ul><li>Ohay (Leader of the Magic Clan)</li>
   <li>Blank (Leader of the Archer Clan)</li>
   <li>Nixo (Leader of the Melee Clan)</li>
   </ul>
 </ul>
+
+<h4>2. Ethereum Faction - Leo (Moon Alliance)</h4>
+
+<h4>3. Hive Faction - Libra (Eclipse Alliance)</h4>
+
+<h4>4. Koinos Faction - Vergo (Sun Alliance)</h4>
+
+<h4>5. Polkadot Faction - Cancer (Moon Alliance)</h4>
+
+<h4>6. Binance Faction - Pisces (Eclipse Alliance)</h4>
+
+<h4>7. DragonChain Faction - Taurus (Sun Alliance)</h4>
+
+<h4>8. Solana Faction - Sagittarius (Moon Alliance)</h4>
+
+<h4>9. Wax Faction - Aquarius (Eclipse Alliance)</h4>
+
+<h4>10. Pirate Chain Faction - Aries (Sun Alliance)</h4>
+
+<h4>11. DOGE Faction - Scorpio (Moon Alliance)</h4>
+
+<h4>12. Zilliqa Faction - Capricorn (Eclipse Alliance)</h4>
+
+
+
     
 
