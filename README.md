@@ -20,7 +20,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 
 <h3>The 12 Major Constellations Faction<h3>
 
-<h4>Signum - Gemini<h4>
+<h4>Signum Faction - Gemini<h4>
 
 <ul>    
   <li>Ka'ree (Leader of the Hypertel Clan, The Elites and The Galactic Alliance)</li>
