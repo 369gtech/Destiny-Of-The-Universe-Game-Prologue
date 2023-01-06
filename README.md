@@ -23,35 +23,89 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 <h4>1. Signum Faction - Gemini (Elite Faction SUN)</h4>
 <p>From the Light Tri-Faction</p>
 <ul>    
-  <li>Ka'ree Of the Hypertel Clan - Head of Signum, the Elite Faction SUN and the Leader of The Galactic Alliance</li>
+  <li>Ka'ree of the Hypertel Clan - Head of Signum, the Elite Faction SUN and the Leader of The Galactic Alliance</li>
   <p></p>
-  <ul><li>Cyiam Of the Invisibility Clan</li>
-  <li>Frank Of the Flying Clan</li>
-  <li>Harrii Of the Psychic Clan</li>
+  <ul><li>Cyiam of the Invisibility Clan</li>
+  <li>Frank of the Flying Clan</li>
+  <li>Harrii of the Psychic Clan</li>
   </ul>
 </ul>
   <p>From the Dark Tri-Faction</p>
 <ul>    
-  <li>Burstonia Of the Resurrection Clan and Right Hand of Signum</li>
+  <li>Burstonia of the Resurrection Clan and Right Hand of Signum</li>
   <p></p>
-  <ul><li>Riccoo Of the Sound Clan</li>
-  <li>Bratyan Of the Body Manipulator Clan</li>
-  <li>Johnnii Of the Pyro Clan</li>
+  <ul><li>Riccoo o the Sound Clan</li>
+  <li>Bratyan of the Body Manipulator Clan</li>
+  <li>Johnnii of the Pyro Clan</li>
   </ul>
 </ul>
   <p>From the Grey Tri-Faction</p>
 <ul>    
-  <li>JJoz Of the Heal Clan and Left Hand of Signum</li>
+  <li>JJoz of the Heal Clan and Left Hand of Signum</li>
   <p></p>
-  <ul><li>Ohay Of the Magic Clan</li>
-  <li>Blank Of the Archer Clan</li>
-  <li>Nixo Of the Melee Clan</li>
+  <ul><li>Ohay of the Magic Clan</li>
+  <li>Blank of the Archer Clan</li>
+  <li>Nixo of the Melee Clan</li>
   </ul>
 </ul>
 
-<h4>2. Ethereum Faction - Leo (Moon Alliance)</h4>
+<h4>2. Ethereum Faction - Leo (Elite Faction MOON)</h4>
+<p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Drako of the Shadow Clan - Head of Ethereum, the Elite Faction MOON and the Right hand of The Galactic Alliance</li>
+  <p></p>
+  <ul><li>VitaLink Of the Shifter Clan</li>
+  <li>Solidiety Of the Soul Manipulator Clan </li>
+  <li>Charlez Of the Drifter Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Gwoods Of the Lightning Clan and Right Hand of Ethereum/li>
+  <p></p>
+  <ul><li>Anthoney Of the Thunder Clan</li>
+  <li>Lubine Of the Water Clan</li>
+  <li>EClassic Of the Ice Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>EV Machine Of the Heal Clan and Left Hand of Ethereum/li>
+  <p></p>
+  <ul><li>ERC Of the Magic Clan</li>
+  <li>HardHat Of the Archer Clan</li>
+  <li>NPruyma Of the Melee Clan</li>
+  </ul>
+</ul>
 
-<h4>3. Hive Faction - Libra (Eclipse Alliance)</h4>
+<h4>3. Hive Faction - Libra (Elite Faction ECLIPSE)</h4>
+<p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Dave Of the Magic Clan - Head of Hive, the Elite Faction ECLIPSE and the Left hand of The Galactic Alliance</li>
+  <p></p>
+  <ul><li>Blocktread Of the Heal Clan</li>
+  <li>Peak Of the Archer Clan</li>
+  <li>Leofi Of the Melee Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Killgour Of the Wind Clan and Right Hand of Hive</li>
+  <p></p>
+  <ul><li>Cryptollama Of the Air Clan</li>
+  <li>Rstar Of the Cloud Clan/li>
+  <li>Tongsan Of the Fog Clan</li>
+  </ul>
+</ul>
+  <p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Yabba Of the Mind Manipulator Clan and Left Hand of Hive</li>
+  <p></p>
+  <ul><li>Clover Of the Electric Clan</li>
+  <li>Bulldag Of the Telicanicy Clan</li>
+  <li>Agro Of the Size Changing Clan</li>
+  </ul>
+</ul>
 
 <h4>4. Koinos Faction - Vergo (Sun Alliance)</h4>
 
