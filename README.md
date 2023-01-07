@@ -52,7 +52,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 <h4>2. Ethereum Faction - Leo (Elite Faction MOON)</h4>
 <p>From the Dark Tri-Faction</p>
 <ul>    
-  <li>Drako of the Shadow Clan - Head of Ethereum, the Elite Faction MOON and the Right hand of The Galactic Alliance</li>
+  <li>Drako of the Shadow Clan - Head of Ethereum, the Elite Faction MOON and the Right Hand of The Galactic Alliance</li>
   <p></p>
   <ul><li>VitaLink of the Shifter Clan</li>
   <li>Solidiety of the Soul Manipulator Clan </li>
@@ -81,7 +81,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 <h4>3. Hive Faction - Libra (Elite Faction ECLIPSE)</h4>
 <p>From the Grey Tri-Faction</p>
 <ul>    
-  <li>Dave of the Magic Clan - Head of Hive, the Elite Faction ECLIPSE and the Left hand of The Galactic Alliance</li>
+  <li>Dave of the Magic Clan - Head of Hive, the Elite Faction ECLIPSE and the Left Hand of The Galactic Alliance</li>
   <p></p>
   <ul><li>Blocktread of the Heal Clan</li>
   <li>Peak of the Archer Clan</li>
@@ -136,13 +136,121 @@ But some humans escaped to the far reaches of the Universe and one of those plac
   </ul>
 </ul>
 
-<h4>5. Solana Faction - Sagittarius (Moon Alliance)</h4>
+<h4>5.  Solana Faction - Sagittarius (Elite Faction MOON)</h4>
+<p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Ryo of the Magic Clan - Head of Solana and Shadow of the Elite Faction MOON</li>
+  <p></p>
+  <ul><li>Reison of the Heal Clan</li>
+  <li>Raj of the Archer Clan</li>
+  <li>Ridge of the Melee Clan</li>
+  </ul>
+</ul>
+  <p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Chen of the Night Vision Clan and Right Hand of Solana</li>
+  <p></p>
+  <ul><li>Shea of the Heat Vision Clan</li>
+  <li>Gal of the Laser Vision Clan</li>
+  <li>Starry of the Plasma Vision Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Venko of the Luna Clan and Left Hand of Solana</li>
+  <p></p>
+  <ul><li>Mvines of the Empathy Clan</li>
+  <li>Jeoff of the Possession Clan</li>
+  <li>Criesoff of the Senses Clan</li>
+  </ul>
+</ul>
 
-<h4>6. Binance Faction - Pisces (Eclipse Alliance)</h4>
+<h4>6. Binance Faction - Pisces (Elite Faction ECLIPSE)</h4>
+<p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Taylors of the Shark Clan - Head of Binance and Shadow of the Elite Faction ECLIPSE</li>
+  <p></p>
+  <ul><li>Peters of the Whale Clan</li>
+  <li>Chrisophes of the Squid Clan</li>
+  <li>Mereks of the Bunyip Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Viktors of the Dolphin Clan and Right Hand of Binance</li>
+  <p></p>
+  <ul><li>Volos of the Crocodile Clan </li>
+  <li>Marans of the Octopus Clan</li>
+  <li>Langes of the Fish Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Swendes of the Heal Clan and Left Hand of Binance</li>
+  <p></p>
+  <ul><li>Wilckes of the Magic Clan</li>
+  <li>Hishams of the Archer Clan</li>
+  <li>Solts of the Melee Clan</li>
+  </ul>
+</ul>
 
-<h4>7. DragonChain Faction - Taurus (Sun Alliance)</h4>
+<H4>7. DragonChain Faction - Taurus (Elite Faction SUN)</H4>
+<p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Jojo of the Bull Dragon Clan - Head of DragonChain and Right Hand of the Elite Faction SUN</li>
+  <p></p>
+  <ul><li>CandC of the Wyvern Clan</li>
+  <li>Micylt of the Hydra Clan</li>
+  <li>Voxelot of the Wyrm Clan</li>
+  </ul>
+</ul>
+  <p>From the Dark Tri-Faction</p>
+<ul>  
+    <li>Wolfpack of the Drake Clan and Right Hand of DragonChain</li>
+  <p></p>
+  <ul><li>Wingman Dragonnet of the Clan</li>
+  <li>Den of the Knucker Clan</li>
+  <li>Lair of the Quetzalcoatl Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Hyperian of the Archer Clan and Left Hand of DragonChain</li>
+  <p></p>
+  <ul><li>GPS of the Magic Clan</li>
+  <li>Dis7ant of the Heal Clan</li>
+  <li>Shounr of the Melee Clan</li>
+  </ul>
+</ul>
 
-<h4>8. Polkadot Faction - Cancer (Moon Alliance)</h4>
+<h4>8. Polkadot Faction - Cancer (Elite Faction MOON)</h4>
+<p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Rustian of the Erasure Clan - Head of Polkadot and Right Hand of the Elite Faction MOON</li>
+  <p></p>
+  <ul><li>Robbian of the Restoration Clan </li>
+  <li>Odian of the Replication Clan </li>
+  <li>Kian of the Absorption Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Shawn of the Wings Clan and Right Hand of Polkadot</li>
+  <p></p>
+  <ul><li>Schuster of the Claw Clan</li>
+  <li>Sergei of the Fang Clan</li>
+  <li>Silva of the SharpTail Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Tomaka of the Heal Clan and Left Hand of Polkadot</li>
+  <p></p>
+  <ul><li>Eskimor of the Magic Clan</li>
+  <li>Martian of the Archer Clan</li>
+  <li>Gavofyork of the Melee Clan</li>
+  </ul>
+</ul>
 
 <h4>9. Wax Faction - Aquarius (Eclipse Alliance)</h4>
 
