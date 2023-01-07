@@ -34,7 +34,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 <ul>    
   <li>Burstonia of the Resurrection Clan and Right Hand of Signum</li>
   <p></p>
-  <ul><li>Riccoo o the Sound Clan</li>
+  <ul><li>Riccoo of the Sound Clan</li>
   <li>Bratyan of the Body Manipulator Clan</li>
   <li>Johnnii of the Pyro Clan</li>
   </ul>
@@ -54,56 +54,56 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 <ul>    
   <li>Drako of the Shadow Clan - Head of Ethereum, the Elite Faction MOON and the Right hand of The Galactic Alliance</li>
   <p></p>
-  <ul><li>VitaLink Of the Shifter Clan</li>
-  <li>Solidiety Of the Soul Manipulator Clan </li>
-  <li>Charlez Of the Drifter Clan</li>
+  <ul><li>VitaLink of the Shifter Clan</li>
+  <li>Solidiety of the Soul Manipulator Clan </li>
+  <li>Charlez of the Drifter Clan</li>
   </ul>
 </ul>
   <p>From the Light Tri-Faction</p>
 <ul>    
-  <li>Gwoods Of the Lightning Clan and Right Hand of Ethereum/li>
+  <li>Gwoods of the Lightning Clan and Right Hand of Ethereum</li>
   <p></p>
-  <ul><li>Anthoney Of the Thunder Clan</li>
-  <li>Lubine Of the Water Clan</li>
-  <li>EClassic Of the Ice Clan</li>
+  <ul><li>Anthoney of the Thunder Clan</li>
+  <li>Lubine of the Water Clan</li>
+  <li>EClassic of the Ice Clan</li>
   </ul>
 </ul>
   <p>From the Grey Tri-Faction</p>
 <ul>    
-  <li>EV Machine Of the Heal Clan and Left Hand of Ethereum/li>
+  <li>EV Machine of the Heal Clan and Left Hand of Ethereum</li>
   <p></p>
-  <ul><li>ERC Of the Magic Clan</li>
-  <li>HardHat Of the Archer Clan</li>
-  <li>NPruyma Of the Melee Clan</li>
+  <ul><li>ERC of the Magic Clan</li>
+  <li>HardHat of the Archer Clan</li>
+  <li>NPruyma of the Melee Clan</li>
   </ul>
 </ul>
 
 <h4>3. Hive Faction - Libra (Elite Faction ECLIPSE)</h4>
 <p>From the Grey Tri-Faction</p>
 <ul>    
-  <li>Dave Of the Magic Clan - Head of Hive, the Elite Faction ECLIPSE and the Left hand of The Galactic Alliance</li>
+  <li>Dave of the Magic Clan - Head of Hive, the Elite Faction ECLIPSE and the Left hand of The Galactic Alliance</li>
   <p></p>
-  <ul><li>Blocktread Of the Heal Clan</li>
-  <li>Peak Of the Archer Clan</li>
-  <li>Leofi Of the Melee Clan</li>
+  <ul><li>Blocktread of the Heal Clan</li>
+  <li>Peak of the Archer Clan</li>
+  <li>Leofi of the Melee Clan</li>
   </ul>
 </ul>
   <p>From the Light Tri-Faction</p>
 <ul>    
-  <li>Killgour Of the Wind Clan and Right Hand of Hive</li>
+  <li>Killgour of the Wind Clan and Right Hand of Hive</li>
   <p></p>
-  <ul><li>Cryptollama Of the Air Clan</li>
-  <li>Rstar Of the Cloud Clan/li>
-  <li>Tongsan Of the Fog Clan</li>
+  <ul><li>Cryptollama of the Air Clan</li>
+  <li>Rstar of the Cloud Clan/li>
+  <li>Tongsan of the Fog Clan</li>
   </ul>
 </ul>
   <p>From the Dark Tri-Faction</p>
 <ul>    
-  <li>Yabba Of the Mind Manipulator Clan and Left Hand of Hive</li>
+  <li>Yabba of the Mind Manipulator Clan and Left Hand of Hive</li>
   <p></p>
-  <ul><li>Clover Of the Electric Clan</li>
-  <li>Bulldag Of the Telicanicy Clan</li>
-  <li>Agro Of the Size Changing Clan</li>
+  <ul><li>Clover of the Electric Clan</li>
+  <li>Bulldag of the Telicanicy Clan</li>
+  <li>Agro of the Size Changing Clan</li>
   </ul>
 </ul>
 
