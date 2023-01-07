@@ -93,7 +93,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
   <li>Killgour of the Wind Clan and Right Hand of Hive</li>
   <p></p>
   <ul><li>Cryptollama of the Air Clan</li>
-  <li>Rstar of the Cloud Clan/li>
+  <li>Rstar of the Cloud Clan</li>
   <li>Tongsan of the Fog Clan</li>
   </ul>
 </ul>
@@ -107,15 +107,42 @@ But some humans escaped to the far reaches of the Universe and one of those plac
   </ul>
 </ul>
 
-<h4>4. Koinos Faction - Vergo (Sun Alliance)</h4>
+<h4>4. Koinos Faction - Vergo (Elite Faction SUN)</h4>
+<p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Journeyman of the Phasing Clan - Head of Koinos and Shadow of the Elite Faction SUN</li>
+  <p></p>
+  <ul><li>Levine of the Water Clan</li>
+  <li>Ron of the Metal Clan</li>
+  <li>Gebino of the Diamond Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Micheal of the Beam Clan and Right hand of Koinos</li>
+  <p></p>
+  <ul><li>Caldwell of the Magma Clan</li>
+  <li>Kpersian of the Fire Breathing Clan</li>
+  <li>Koinosnetwork Laser of the Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Mills of the Archer Clan and Left Hand of Koinos</li>
+  <p></p>
+  <ul><li>SCC of the Magic Clan</li>
+  <li>Mitchell of the Heal Clan</li>
+  <li>VelleJos of the Melee Clan</li>
+  </ul>
+</ul>
 
-<h4>5. Polkadot Faction - Cancer (Moon Alliance)</h4>
+<h4>5. Solana Faction - Sagittarius (Moon Alliance)</h4>
 
 <h4>6. Binance Faction - Pisces (Eclipse Alliance)</h4>
 
 <h4>7. DragonChain Faction - Taurus (Sun Alliance)</h4>
 
-<h4>8. Solana Faction - Sagittarius (Moon Alliance)</h4>
+<h4>8. Polkadot Faction - Cancer (Moon Alliance)</h4>
 
 <h4>9. Wax Faction - Aquarius (Eclipse Alliance)</h4>
 
