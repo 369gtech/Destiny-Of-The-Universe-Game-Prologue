@@ -359,11 +359,11 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 </ul>
   <p>From the Dark Tri-Faction</p>
 <ul>    
-  <li>Sandip of the Sand Clan and Left Hand of Zilliqa</li>
+  <li>Sandip of the Sandstorm Clan and Left Hand of Zilliqa</li>
   <p></p>
-  <ul><li>Mckane of the Grain Clan</li>
-  <li>Matt of the Dirt Clan</li>
-  <li>Jman of the Earth Clan </li>
+  <ul><li>Mckane of the QuickSand</li>
+  <li>Matt of the Lava Clan</li>
+  <li>Jman of the Earthquake Clan</li>
   </ul>
 </ul>
 
