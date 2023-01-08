@@ -252,14 +252,120 @@ But some humans escaped to the far reaches of the Universe and one of those plac
   </ul>
 </ul>
 
-<h4>9. Wax Faction - Aquarius (Eclipse Alliance)</h4>
+<h4>9. Wax Faction - Aquarius (Elite Faction ECLIPSE)</h4>
+<p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Marty of the Aquarius Clan - Head of Wax and Right Hand of the Elite Faction ECLIPSE</li>
+  <p></p>
+  <ul><li>Quigley of the Siren Clan</li>
+  <li>Yantis of the Merfolk Clan</li>
+  <li>Sliwika of the Medusa Clan</li>
+  </ul>
+</ul>
+  <p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Malcolm of the Lockness Clan and Right Hand of Wax</li>
+  <p></p>
+  <ul><li>Caswell of the Naga Clan</li>
+  <li>Lukas of the Tsunami Clan</li>
+  <li>Tunof the Hurricane Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>kropoch of the Archer Clan and Left Hand of Wax</li>
+  <p></p>
+  <ul><li>Inull of the Magic Clan</li>
+  <li>Fabian of the Healer Clan</li>
+  <li>Shuna of the Melee Clan</li>
+  </ul>
+</ul>
+<h4>10. Pirate Chain Faction - Aries (Elite Faction SUN)</h4>
+<p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Lynch of the Levitation Clan - Head of Pirate Chain and Left Hand of the Elite Faction SUN</li>
+  <p></p>
+  <ul><li>Geniey of the Skullz Clan</li>
+  <li>McEye of the Cannon Clan</li>
+  <li>JL777 of the Pheromone Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Dimxy of the Crow Clan and Right Hand of Pirate Chain </li>
+  <p></p>
+  <ul><li>Sparrow of the Sparrow Clan</li>
+  <li>Strind of the Hawk Clan</li>
+  <li>Sipa of the Eagle Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Grypo of the Melee Clan and Left Hand of Pirate Chain</li>
+  <p></p>
+  <ul><li>Garin of the Magic Clan</li>
+  <li>Cartel of the Archer Clan</li>
+  <li>CaFFF of the Healer Clan</li>
+  </ul>
+</ul>
 
-<h4>10. Pirate Chain Faction - Aries (Sun Alliance)</h4>
+<h4>11. DOGE Faction - Scorpio (Elite Faction MOON)</h4>
+<p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>DJordie of the Scorpion Clan - Head of DOGE and Left Hand of the Elite Faction MOON</li>
+  <p></p>
+  <ul><li>Lumin of the Venom Clan</li>
+  <li>Lachange of the Poison Clan</li>
+  <li>Nakamoto of the Acid Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Max of the Hallucinogenic Clan and Right Hand of DOGE</li>
+  <p></p>
+  <ul><li>Ross of the Stinger Clan</li>
+  <li>Markus of the Harden Clan</li>
+  <li>Timothey of the Iron Clan</li>
+  </ul>
+</ul>
+  <p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Birchall of the Melee Clan and Left Hand of DOGE</li>
+  <p></p>
+  <ul><li>Weichess of the Magic Clan</li>
+  <li>Burtin of the Archer Clan</li>
+  <li>Elunoi of the Healer Clan</li>
+  </ul>
+</ul>
 
-<h4>11. DOGE Faction - Scorpio (Moon Alliance)</h4>
-
-<h4>12. Zilliqa Faction - Capricorn (Eclipse Alliance)</h4>
-
+<h4>12. Zilliqa Faction - Capricorn (Elite Faction ECLIPSE)</h4>
+<p>From the Grey Tri-Faction</p>
+<ul>    
+  <li>Yang of the Healer Clan - Head of Zilliqa and Left Hand of the Elite Faction ECLIPSE</li>
+  <p></p>
+  <ul><li>Xiao of the Magic Clan</li>
+  <li>Kai of the Archer Clan</li>
+  <li>Kaustu of the Melee Clan</li>
+  </ul>
+</ul>
+  <p>From the Light Tri-Faction</p>
+<ul>    
+  <li>Komarov of the Deflect Clan and Right Hand of Zilliqa</li>
+  <p></p>
+  <ul><li>Ans of the Ram Raid Clan</li>
+  <li>Val of the Sea Goat Clan</li>
+  <li>Jendis of the Shield Clan</li>
+  </ul>
+</ul>
+  <p>From the Dark Tri-Faction</p>
+<ul>    
+  <li>Sandip of the Sand Clan and Left Hand of Zilliqa</li>
+  <p></p>
+  <ul><li>Mckane of the Grain Clan</li>
+  <li>Matt of the Dirt Clan</li>
+  <li>Jman of the Earth Clan </li>
+  </ul>
+</ul>
 
 
     
