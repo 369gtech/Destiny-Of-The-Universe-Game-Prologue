@@ -206,7 +206,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 </ul>
   <p>From the Dark Tri-Faction</p>
 <ul>  
-    <li>Wolfpack of the Drake Clan and Right Hand of DragonChain</li>
+    <li>Apterous of the Drake Clan and Right Hand of DragonChain</li>
   <p></p>
   <ul><li>Wingman Dragonnet of the Clan</li>
   <li>Den of the Knucker Clan</li>
@@ -268,7 +268,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
   <p></p>
   <ul><li>Caswell of the Naga Clan</li>
   <li>Lukas of the Tsunami Clan</li>
-  <li>Tunof the Hurricane Clan</li>
+  <li>Tun of the Hurricane Clan</li>
   </ul>
 </ul>
   <p>From the Grey Tri-Faction</p>
