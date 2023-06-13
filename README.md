@@ -52,7 +52,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 <h4>2. Ethereum Faction - Leo (Elite Faction MOON)</h4>
 <p>From the Dark Tri-Faction</p>
 <ul>    
-  <li>Drako of the Shadow Clan - Head of Ethereum, the Elite Faction MOON and the Right Hand of The Galactic Alliance</li>
+  <li>Drako of the Darkness Clan - Head of Ethereum, the Elite Faction MOON and the Right Hand of The Galactic Alliance</li>
   <p></p>
   <ul><li>VitaLink of the Shifter Clan</li>
   <li>Solidiety of the Soul Manipulator Clan </li>
@@ -312,7 +312,7 @@ But some humans escaped to the far reaches of the Universe and one of those plac
 <h4>11. DOGE Faction - Scorpio (Elite Faction MOON)</h4>
 <p>From the Dark Tri-Faction</p>
 <ul>    
-  <li>DJordie of the Scorpion Clan - Head of DOGE and Left Hand of the Elite Faction MOON</li>
+  <li>Elon of the Shadow Clan - Head of DOGE and Left Hand of the Elite Faction MOON</li>
   <p></p>
   <ul><li>Lumin of the Venom Clan</li>
   <li>Lachange of the Poison Clan</li>
